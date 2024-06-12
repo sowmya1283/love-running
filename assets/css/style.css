@@ -10,6 +10,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 /* General styles */
 body {
 min-height: 100vh;
@@ -26,8 +27,9 @@ background-color: lightcoral;
 }
 
 h1{
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald';
 }
+
 /* main content */
 main { 
 background-color: lightblue;
